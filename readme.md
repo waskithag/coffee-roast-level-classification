@@ -3,6 +3,7 @@
 ## Repository Outline
 1. coffee_beans_classification.ipynb - The main notebook where all the process writen
 2. coffee_Inf.ipynb - notebook for inference testing
+3. inf_img.jpg - image used for inference testing
 
 
 ## Objective
